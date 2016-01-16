@@ -3,6 +3,6 @@ A Frontend delivery checklist
 
 - [ ] Validate HTML
 - [ ] Validate CSS ([W3C CSS Validator] (http://jigsaw.w3.org/css-validator/))
-- [ ] Lint JavaScript
+- [ ] Lint JavaScript ([JSLint](http://www.jslint.com/))
 - [ ] Fix accessibility problems ([Wave](http://wave.webaim.org/))
 - [ ] Test in all supported browsers and devices
