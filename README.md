@@ -6,4 +6,5 @@ A checklist for error-free front-end delivery including suggestions for tools to
 - [ ] Lint JavaScript ([JSLint](http://www.jslint.com/), [JSHint](http://jshint.com/))
 - [ ] Fix accessibility problems ([Wave](http://wave.webaim.org/))
 - [ ] Fix performance problems ([PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/))
+- [ ] If template contains actual content, fix spelling errors ([Firefox Spellchecker](https://addons.mozilla.org/en-US/firefox/addon/spell-checker/))
 - [ ] Test in all supported browsers and devices
