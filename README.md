@@ -1,5 +1,5 @@
 # Front-end Checklist
-A checklist for error-free front-end delivery including suggestions for tools to use.
+A checklist for error-free delivery of front-end templates or components, including suggestions for Web-based tools.
 
 - [ ] Validate HTML ([W3C Markup Validator] (https://validator.w3.org/))
 - [ ] Validate CSS ([W3C CSS Validator] (http://jigsaw.w3.org/css-validator/))
