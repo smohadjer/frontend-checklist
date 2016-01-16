@@ -1,4 +1,4 @@
-# frontend-checklist
+# Front-end Checklist
 A checklist for error-free front-end delivery including suggestions for tools to use.
 
 - [ ] Validate HTML ([W3C Markup Validator] (https://validator.w3.org/))
