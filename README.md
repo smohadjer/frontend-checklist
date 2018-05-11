@@ -9,3 +9,13 @@ A checklist for error-free delivery of front-end templates or components, includ
 - [ ] Check for typos if template has real content
 - [ ] Check links if template has real content ([W3C Link Checker](https://validator.w3.org/checklink))
 - [ ] Test in all supported browsers and devices
+
+# Front-end Resources
+- http://youmightnotneedjquery.com/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+
+
+
+
